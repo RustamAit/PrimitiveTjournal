@@ -13,7 +13,7 @@
         android:id="@+id/videoContainer"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:minHeight="240dp"
+        android:minHeight="340dp"
         app:resize_mode="fill"
         />
 
